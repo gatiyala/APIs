@@ -1,0 +1,9 @@
+{
+  "logs": [
+    {"user_id": 1, "endpoint": "/login", "response_time_ms": 350, "status_code": 200},
+    {"user_id": 2, "endpoint": "/login", "response_time_ms": 250, "status_code": 200},
+    {"user_id": 3, "endpoint": "/search", "response_time_ms": 500, "status_code": 200},
+    {"user_id": 4, "endpoint": "/search", "response_time_ms": 700, "status_code": 200},
+    {"user_id": 5, "endpoint": "/profile", "response_time_ms": 200, "status_code": 500}
+  ]
+}
